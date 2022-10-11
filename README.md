@@ -1,6 +1,6 @@
 ### Hi there, my name is Victor 👋
 
-- 🔭  I’m currently working on building simple tools and backend REST APIs using SpringBoot, Golang and Express. When I'm not building simple tools, I'm on LeetCode solving problems on data structures and algorithm
+- 🔭  I’m currently working on building simple tools and backend REST APIs using SpringBoot, Golang and Express. When I'm not building simple tools, I'm on LeetCode solving problems on data structures and algorithm. I'm also interested in Distributed Systems Architecture (Microservices, Event-Driven, and RESTful Services)
 - 🌱 I’m currently working my way to becoming a solid software engineer
 - 👯 I’m looking to collaborate on anything nice!
 - 🤔 I’m looking for help with Data structures/Algorithms

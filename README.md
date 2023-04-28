@@ -8,8 +8,8 @@
 - 📫 You can reach me via my email: vomoniyi2001@gmail.com 
 - 😄 Pronouns: He/Him
 ### Technology Stacks
-- Programming language: JavaScript, Python, Java, Golang, TypeScript, C, C++
-- Frameworks: ExpressJS, NestJS, ReactJS, Django, Spring Boot
+- Programming language: JavaScript, Python, Java, TypeScript
+- Frameworks: ExpressJS, NestJS, ReactJS, Spring Boot
 - DBMS: MySQL, PostgreSQL, MongoDB
 - Infrastructure: Docker, Git, AWS
 

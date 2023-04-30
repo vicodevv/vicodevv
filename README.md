@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on anything nice!
 - 🤔 I’m looking for help with Data structures/Algorithms
 - 💬 Ask me about Python/JavaScript
-- 📫 You can reach me via my email: vomoniyi2001@gmail.com 
+- 📫 You can reach me via my email: victoroomoniyi@gmail.com 
 - 😄 Pronouns: He/Him
 ### Technology Stacks
 - Programming language: JavaScript, Python, Java, TypeScript

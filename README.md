@@ -5,7 +5,7 @@
 - 😄 Pronouns: He/Him
 ### Technology Stacks
 - Programming language: JavaScript, Python, Java, TypeScript
-- Frameworks: ExpressJS, NestJS, ReactJS, Spring Boot
+- Frameworks: ExpressJS, NestJS, ReactJS, AngularJS Spring Boot
 - DBMS: MySQL, PostgreSQL, MongoDB
 - Infrastructure: Docker, Git, AWS
 

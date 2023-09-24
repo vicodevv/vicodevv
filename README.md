@@ -1,6 +1,6 @@
 ### Hi there, my name is Victor 👋
 
-- 🔭  I’m currently working on building simple tools, frontend UI using React and backend REST APIs using Express with Typescript and SpringBoot. When I'm not building simple tools, I'm on LeetCode solving problems on data structures and algorithm. I'm also interested in Distributed Systems Architecture (Microservices, Event-Driven, and RESTful Services)
+- 🔭  I’m currently working on building frontend UI using React and Angular and also backend APIs using Nest, Express with Typescript and SpringBoot. When I'm not building software, I'm on LeetCode solving problems on data structures and algorithm. I'm also interested in Distributed Systems Architecture (Microservices, Event-Driven, and RESTful Services)
 - 📫 You can reach me via my email: victoroomoniyi@gmail.com 
 - 😄 Pronouns: He/Him
 ### Technology Stacks

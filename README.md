@@ -1,6 +1,8 @@
-### Hi there, my name is Victor 👋
+👋 Hey, I'm Victor, a passionate software engineer on a quest to build scalable and impactful applications. When I'm not immersed in code, you'll find me tackling challenges on LeetCode, sharpening my skills in data structures and algorithms.
 
-- 🔭  I’m currently working on building frontend UI using React and Angular and also backend APIs using Nest, Express with Typescript and SpringBoot. When I'm not building software, I'm on LeetCode solving problems on data structures and algorithm. I'm also interested in Distributed Systems Architecture (Microservices, Event-Driven, and RESTful Services)
+My coding journey goes beyond the screen—I'm captivated by the intricate world of Distributed Systems Architecture. From crafting Microservices and embracing Event-Driven paradigms to architecting RESTful Services, I thrive on turning complex ideas into elegant solutions.
+
+Let's code the future together! 🚀✨
 - 📫 You can reach me via my email: victoroomoniyi@gmail.com 
 - 😄 Pronouns: He/Him
 ### Technology Stacks

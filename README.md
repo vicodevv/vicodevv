@@ -1,10 +1,10 @@
-👋 Hey, I'm Victor, a passionate software engineer on a quest to build scalable and impactful applications. When I'm not immersed in code, you'll find me tackling challenges on LeetCode, sharpening my skills in data structures and algorithms.
+👋 Hey, I'm Victor, a passionate software engineer on a quest to build scalable and impactful applications. When I'm not immersed in code, you'll find me tackling challenges on LeetCode, sharpening my skills in data structures and algorithms. My coding journey goes beyond the screen—I'm captivated by the intricate world of System Design, where I thrive on turning complex ideas into elegant solutions.
 
-My coding journey goes beyond the screen—I'm captivated by the intricate world of Distributed Systems Architecture. From crafting Microservices and embracing Event-Driven paradigms to architecting RESTful Services, I thrive on turning complex ideas into elegant solutions.
+Beyond my technical pursuits, I am a strong advocate for collaborative development and continuous learning within the software engineering community. Embracing the latest technologies and methodologies, I am dedicated to staying at the forefront of the ever-evolving tech landscape.
 
-Let's code the future together! 🚀✨
-- 📫 You can reach me via my email: victoroomoniyi@gmail.com 
-- 😄 Pronouns: He/Him
+Feel free to reach out to me via email at victoroomoniyi@gmail.com. Let's code the future together! 🚀✨ 
+Pronouns: He/Him
+
 ### Technology Stacks
 - Programming language: JavaScript, Python, Java, TypeScript
 - Frameworks: ExpressJS, NestJS, ReactJS, AngularJS, Spring Boot

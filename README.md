@@ -11,7 +11,6 @@ Pronouns: He/Him
 - DBMS: MySQL, PostgreSQL, MongoDB
 - Infrastructure: Docker, Git, AWS
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/victor-omoniyi-56a65218b/)
 [![](https://visitcount.itsvg.in/api?id=vicodevv&icon=2&color=9)](https://visitcount.itsvg.in)
 <br>
 

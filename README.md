@@ -23,3 +23,4 @@ Pronouns: He/Him
 </a>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vicodevv&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vicodevv&exclude_days=Sun%2CWed%2CSat" alt="GitHub Streak" /></a>

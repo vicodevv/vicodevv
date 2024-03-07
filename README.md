@@ -22,5 +22,4 @@ Pronouns: He/Him
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=vicodevv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Vico's GitHub Stats" />
 </a>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vicodevv&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vicodevv&exclude_days=Sun%2CWed%2CSat" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vicodevv&theme=dark&exclude_days=Sun%2CWed%2CSat" alt="GitHub Streak" /></a>

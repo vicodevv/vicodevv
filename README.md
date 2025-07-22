@@ -1,6 +1,8 @@
-👋 Hey, I'm Victor, a passionate software engineer on a quest to build scalable and impactful applications. When I'm not immersed in code, you'll find me tackling challenges on LeetCode, sharpening my skills in data structures and algorithms. My coding journey goes beyond the screen—I'm captivated by the intricate world of System Design, where I thrive on turning complex ideas into elegant solutions.
+👋 Hey, I'm Victor, a Software engineer with a Computer Science background and a passion for building systems that scale and solve real problems. I've led and contributed to projects ranging from GRC platforms to multi-bank finance systems.
 
-Beyond my technical pursuits, I am a strong advocate for collaborative development and continuous learning within the software engineering community. Embracing the latest technologies and methodologies, I am dedicated to staying at the forefront of the ever-evolving tech landscape.
+I enjoy digging into system design, clean architecture, and writing code that's easy to understand, maintain, and extend. I'm especially interested in the intersection of infrastructure and product - where backend performance, reliability, and great user experience meet.
+
+Outside of work, I’m often on LeetCode or exploring new tech in the cloud/backend ecosystem. I believe in sharing knowledge, building in public when possible, and continuously improving as an engineer and teammate.
 
 Feel free to reach out to me via email at victoroomoniyi@gmail.com. Let's code the future together! 🚀✨ 
 Pronouns: He/Him
